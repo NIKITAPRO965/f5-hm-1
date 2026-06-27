@@ -1,7 +1,4 @@
-
 import './App.css'
-
-
 
 
 const text = "SHΔDØW•965"
@@ -10,9 +7,6 @@ const object = {
   url: "https://animelib.org/ru/characters/97140--jin-woo-sung?seed=508d610631d838ab097262045f2291ff"
 }
 const colors = ["Червоний", "Синій", "Зелений"]
-
-
-
 
 
 function App() {
